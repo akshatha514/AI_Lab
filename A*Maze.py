@@ -1,4 +1,5 @@
 # This class represents a node
+
 class Node:
     # Initialize the class
     def __init__(self, position: (), parent: ()):
